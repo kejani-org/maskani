@@ -9,8 +9,7 @@ Maskani is minimalistic easy to use laravel Real Estate Application. The applica
 
 ## Project Contributors
 
-- <img src="https://avatars.githubusercontent.com/u/65104775?v=4" width="150"> ** Emmanuel Odero ** [Github page](https://github.com/Emmanuel-Odero/).
-
+- ** <img src="https://avatars.githubusercontent.com/u/65104775?v=4" width="50"> [Emmanuel Odero](https://github.com/Emmanuel-Odero/). **
 ### Premium Partners
 
 - ** **
